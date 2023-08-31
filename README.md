@@ -1,5 +1,5 @@
-### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### 👋 Hi there. I'm Carlos
+![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,git,github,linux,linkedin,postman,sqlite,atom)
 
 <!--
 **CarlosCGA/CarlosCGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
