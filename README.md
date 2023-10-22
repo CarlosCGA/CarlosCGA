@@ -12,12 +12,14 @@ Actualmente trabajo como desarrollador Android en [Eurob Creative](https://eurob
 Tengo proyectos personales desarrollados... 🚧🏗️🚧
 
 
-## 🌱 Learn 🌱
+## 🧠 Learn 🧠
 En este momento solo tengo desbloqueado el "<i>paquete Android</i>" en mi cerebro, pero cuento con la intención de habilitar el "<i>paquete IOS</i>" en un futuro cercano, para poder desarrollar aplicaciones de forma nativa para los 2 principales sistemas operativos móviles.
 
-<!--🧠:-->
 - [x] <i>Paquete Android</i>
 - [ ] <i>Paquete IOS</i>
+
+Actualmente me encuentro desarrollando fuertes conocimientos sobre librerias y arquitecturas que considero esenciales en programación Android:<br />
+`Retrofit` / `Dagger` / `Butter knife` / `ROOM` / `Picasso` / `Shimmer` / `Jetpack Compose` / `Admob` / `Mockito` / `MVC` / `MVVM` / `MVP` / `Clean Architecture`
 
 
 ## 💡 Skills 💡
