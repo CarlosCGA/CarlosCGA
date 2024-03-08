@@ -18,8 +18,8 @@ En este momento solo tengo desbloqueado el "<i>paquete Android</i>" en mi cerebr
 - [x] <i>Paquete Android</i>
 - [ ] <i>Paquete IOS</i>
 
-Actualmente me encuentro desarrollando fuertes conocimientos sobre librerias y arquitecturas que considero esenciales en programación Android:<br />
-`Retrofit` / `Dagger` / `Butter knife` / `ROOM` / `Picasso` / `Shimmer` / `Jetpack Compose` / `Admob` / `Mockito` / `MVC` / `MVVM` / `MVP` / `Clean Architecture`
+Tengo el objetivo de ir poco a poco desarrollando fuertes conocimientos sobre librerias y arquitecturas que considero esenciales en programación Android:<br />
+`Retrofit` / `Dagger` / `ROOM` / `Picasso` / `Shimmer` /  `View Binding` / `Jetpack Compose` / `Admob` / `Mockito` / `MVC` / `MVVM` / `MVP` / `Clean Architecture`
 
 
 ## 💡 Skills 💡
