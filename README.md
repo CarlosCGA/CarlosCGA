@@ -5,7 +5,7 @@
 
 <!-- I’m currently working in  and developing myself in Android Kotlin knowledge (mainly Kotlin). -->
 Desde que conocí el desarrollo móvil es mi principal motivación y dedico mi tiempo libre a aprender nuevas técnicas y mejorar las que ya conozco de forma autodidacta.<br/>
-Actualmente trabajo como desarrollador Android en [Eurob Creative](https://eurob.com).
+Actualmente trabajo como desarrollador Android utilizando Java, Kotlin, XML y Jetpack Compose.
 
 
 ## 🏗️ Proyectos 🏗️
@@ -18,8 +18,11 @@ En este momento solo tengo desbloqueado el "<i>paquete Android</i>" en mi cerebr
 - [x] <i>Paquete Android</i>
 - [ ] <i>Paquete IOS</i>
 
-Tengo el objetivo de ir poco a poco desarrollando fuertes conocimientos sobre librerias y arquitecturas que considero esenciales en programación Android:<br />
-`Retrofit` / `Dagger` / `ROOM` / `Picasso` / `Shimmer` /  `View Binding` / `Jetpack Compose` / `Admob` / `Mockito` / `MVC` / `MVVM` / `MVP` / `Clean Architecture`
+Con esfuerzo y dedicación he logrado desarrollar conocimientos en:<br />
+`Retrofit` / `XML` / `Jetpack Compose` / `View Binding` / `Shimmer` / `Picasso`
+<br /><br />
+Del mismo modo, estoy en proceso de desarrollar fuertes conocimientos sobre las siguientes librerias y arquitecturas que considero esenciales en programación Android (así como las anteriores):<br />
+`Dagger` / `ROOM` / `Admob` / `Mockito` / `MVC` / `MVVM` / `MVP` / `Clean Architecture`
 
 
 ## 💡 Skills 💡
