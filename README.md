@@ -4,7 +4,7 @@
 ### Ingeniero Técnico Informático y Técnico Desarrollador de Aplicaciones Multiplataforma</h3>
 
 <!-- I’m currently working in  and developing myself in Android Kotlin knowledge (mainly Kotlin). -->
-Desde que conocí el desarrollo móvil es mi principal motivación laboral y dedico mi tiempo libre a aprender nuevas técnicas y mejorar las que ya conozco de forma autodidacta.<br/>
+Desde que conocí el desarrollo móvil es mi principal motivación y dedico mi tiempo libre a aprender nuevas técnicas y mejorar las que ya conozco de forma autodidacta.<br/>
 Actualmente trabajo como desarrollador Android en [Eurob Creative](https://eurob.com).
 
 
