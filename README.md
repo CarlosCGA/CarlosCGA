@@ -22,7 +22,7 @@ Con esfuerzo y dedicación he logrado desarrollar conocimientos en:<br />
 `Retrofit` / `XML` / `Jetpack Compose` / `View Binding` / `Shimmer` / `Picasso`
 <br /><br />
 Del mismo modo, estoy en proceso de desarrollar fuertes conocimientos sobre las siguientes librerias y arquitecturas que considero esenciales en programación Android (así como las anteriores):<br />
-`Dagger` / `ROOM` / `Admob` / `Mockito` / `MVC` / `MVVM` / `MVP` / `Clean Architecture`
+`Dagger` / `ROOM` / `Firebase` / `Mockito` / `MVC` / `MVVM` / `MVP` / `Clean Architecture` / `Admob`
 
 
 ## 💡 Skills 💡
