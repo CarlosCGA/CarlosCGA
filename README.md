@@ -13,10 +13,12 @@ Tengo proyectos personales desarrollados... 🚧🏗️🚧
 
 
 ## 🧠 Learn 🧠
-En este momento solo tengo desbloqueado el "<i>paquete Android</i>" en mi cerebro, pero cuento con la intención de habilitar el "<i>paquete IOS</i>" en un futuro cercano, para poder desarrollar aplicaciones de forma nativa para los 2 principales sistemas operativos móviles.
+En este momento solo tengo desbloqueado el "<i>paquete Android</i>" en mi cerebro, pero cuento con el objetivo de iniciar mis conocimientos y tener buenas bases sobre el desarrollo en <i>IOS</i> en un futuro cercano, así como curiosear en el mundo "<i>multiplataforma</i>"
 
-- [x] <i>Paquete Android</i>
-- [ ] <i>Paquete IOS</i>
+- [x] <i>Android</i>
+- [ ] <i>IOS</i>
+- [ ] <i>Kotlin multiplatform</i>
+- [ ] <i>Flutter</i>
 
 Con esfuerzo y dedicación he logrado desarrollar conocimientos en:<br />
 `Retrofit` / `XML` / `Jetpack Compose` / `View Binding` / `Shimmer` / `Picasso`
