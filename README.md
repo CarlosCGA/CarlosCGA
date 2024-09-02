@@ -21,7 +21,7 @@ En este momento solo tengo desbloqueado el "<i>paquete Android</i>" en mi cerebr
 - [ ] <i>Flutter</i>
 
 Con esfuerzo y dedicación he logrado desarrollar conocimientos en:<br />
-`Retrofit` / `MVVM` / `Jetpack Compose` / `MVC` / `XML` / `View Binding` / `Shimmer` / `Picasso`
+`Retrofit` / `MVVM` / `Jetpack Compose` / `MVC` / `XML` / `View Binding` / `Shimmer` / `Picasso` / `Coil`
 <br /><br />
 Del mismo modo, estoy en proceso de desarrollar fuertes conocimientos sobre las siguientes librerias y arquitecturas que considero esenciales en programación Android (así como las anteriores):<br />
 `Dagger` / `ROOM` / `Firebase` / `Mockito` / `MVP` / `Clean Architecture` / `Admob`
