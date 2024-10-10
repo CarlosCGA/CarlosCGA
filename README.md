@@ -18,7 +18,6 @@ En este momento solo tengo desbloqueado el "<i>paquete Android</i>" en mi cerebr
 - [x] <i>Android</i>
 - [ ] <i>IOS</i>
 - [ ] <i>Kotlin multiplatform</i>
-- [ ] <i>Flutter</i>
 
 Con esfuerzo y dedicación he logrado desarrollar conocimientos en:<br />
 `Retrofit` / `MVVM` / `Jetpack Compose` / `MVC` / `XML` / `View Binding` / `Shimmer` / `Picasso` / `Coil`
